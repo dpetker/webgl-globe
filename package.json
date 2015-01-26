@@ -1,0 +1,16 @@
+{
+  "name": "dpetker-webgl-globe",
+  "version": "0.0.0",
+  "description": "A version of Google DAT's WebGL Globe, served up via Node.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpetker/webgl-globe.git"
+  },
+  "author": "dpetker",
+  "private": true,
+  "homepage": "https://github.com/dpetker/webgl-globe",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
