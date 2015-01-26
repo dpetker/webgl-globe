@@ -11,6 +11,7 @@
   "private": true,
   "homepage": "https://github.com/dpetker/webgl-globe",
   "dependencies": {
-    "express": "^4.11.1"
+    "express": "^4.11.1",
+    "serve-static": "^1.8.1"
   }
 }
