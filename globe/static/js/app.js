@@ -10,7 +10,7 @@ $(function() {
     window.setInterval( function() {
       $.ajax( '/data' )
         .done( function( data ) {
-          if( data.length == 0 ) {
+          if( data.length === 0 ) {
             return;
           }
 
